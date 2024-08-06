@@ -1,0 +1,79 @@
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\bin\Debug\BTL.exe.config
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\bin\Debug\BTL.exe
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\bin\Debug\BTL.pdb
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\bin\Debug\System.Drawing.Common.dll
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\bin\Debug\System.Drawing.Common.xml
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\obj\Debug\BTL.Form1.resources
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\obj\Debug\BTL.exe
+D:\Source code VS studio\Lập trình giao diện\BTL\BTL\obj\Debug\BTL.pdb
+D:\BTL\BTL\bin\Debug\BTL.exe.config
+D:\BTL\BTL\bin\Debug\BTL.exe
+D:\BTL\BTL\bin\Debug\BTL.pdb
+D:\BTL\BTL\bin\Debug\System.Drawing.Common.dll
+D:\BTL\BTL\bin\Debug\System.Drawing.Common.xml
+D:\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\BTL\BTL\obj\Debug\BTL.exe
+D:\BTL\BTL\obj\Debug\BTL.pdb
+D:\BTL\BTL\obj\Debug\BTL.frmMain.resources
+D:\BTL\BTL\obj\Debug\BTL.frmDangNhap.resources
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\BTL.exe.config
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\BTL.exe
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\BTL.pdb
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\System.Drawing.Common.dll
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\System.Drawing.Common.xml
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.frmMain.resources
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.frmDangNhap.resources
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.exe
+D:\TuHocLonXon\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.pdb
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\BTL.exe.config
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\BTL.exe
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\BTL.pdb
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\System.Drawing.Common.dll
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\System.Drawing.Common.xml
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.frmMain.resources
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.frmDangNhap.resources
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.exe
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.pdb
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\Interop.WMPLib.dll
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\bin\Debug\AxInterop.WMPLib.dll
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\Interop.WMPLib.dll
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\AxInterop.WMPLib.dll
+D:\Myseft\LapTrinhGiaoDien\BTL (1)\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\bin\Debug\BTL.exe.config
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\bin\Debug\BTL.exe
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\bin\Debug\BTL.pdb
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\bin\Debug\System.Drawing.Common.dll
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\bin\Debug\System.Drawing.Common.xml
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\bin\Debug\Interop.WMPLib.dll
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\bin\Debug\AxInterop.WMPLib.dll
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\Interop.WMPLib.dll
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\AxInterop.WMPLib.dll
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\BTL.frmMain.resources
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\BTL.frmDangNhap.resources
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\BTL.csproj.Up2Date
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\BTL.exe
+D:\Source code VS studio\Lập trình giao diện\BTL\BaiTapLonLTGD_TroBauCua\BTL\obj\Debug\BTL.pdb
